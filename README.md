@@ -1,2 +1,2 @@
 # Java
-Car invetory management
+Car inventory management by Java Servlet
