@@ -1,2 +1,2 @@
 # Java
-Car inventory management by Java Servlet
+Java Servlet for cs320
