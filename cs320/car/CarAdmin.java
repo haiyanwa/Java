@@ -1,6 +1,7 @@
 package cs320.midterm;
 /**
  * create a car inventory management system
+ * a test for merge
  * /
 import java.io.IOException;
 import java.io.PrintWriter;
