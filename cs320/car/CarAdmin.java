@@ -1,5 +1,7 @@
 package cs320.midterm;
-
+/**
+ * create a car inventory management system
+ * /
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
