@@ -24,7 +24,6 @@ public class CarAdmin extends HttpServlet {
     
     public CarAdmin() {
         super();
-        // TODO Auto-generated constructor stub
     }
     public void init(ServletConfig config) throws ServletException {
 		super.init(config);
